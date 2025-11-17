@@ -16,9 +16,6 @@ body {
   margin: -20, 0;
   justify-content: flex-start;
 }
-h1{
-  font_size: 100px;
-}
 h2{
   font-size: 40px;
   color: #333;
@@ -289,6 +286,7 @@ section{
   text-align: center;
   }
 }
+
 
 
 
